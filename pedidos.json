@@ -1,0 +1,1120 @@
+﻿[{
+	"pedido": "CON-23",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "",
+	"status": "Cancelado",
+	"valor": 0,
+	"tipo": "Condicional"
+},
+{
+	"pedido": "PED-1",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "",
+	"status": "Cancelado",
+	"valor": 1,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-10",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "VANDERLEI RODRIGUES",
+	"status": "Fechado",
+	"valor": 120,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-11",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "DONA CLEIDE",
+	"status": "Fechado",
+	"valor": 240,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-12",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "RENATO (RICARDINA)",
+	"status": "Fechado",
+	"valor": 1080,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-13",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "JEFERSON",
+	"status": "Fechado",
+	"valor": 200,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-14",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "NENZINHO",
+	"status": "Fechado",
+	"valor": 160,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-15",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "MOISES SANTANA",
+	"status": "Fechado",
+	"valor": 1100,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-16",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "JOAO VIDRACARIA",
+	"status": "Fechado",
+	"valor": 245,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-17",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "CHECHEL",
+	"status": "Fechado",
+	"valor": 60,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-18",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "GILSON CAMINHONEIRO",
+	"status": "Fechado",
+	"valor": 294,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-19",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "PEDRO GUILHERMINO ",
+	"status": "Fechado",
+	"valor": 335,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-2",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "INDRIA BORGES DUTRA",
+	"status": "Fechado",
+	"valor": 777,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-20",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "JOAO CRUZ",
+	"status": "Fechado",
+	"valor": 40,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-21",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "CARLOS ANTONIO",
+	"status": "Fechado",
+	"valor": 320,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-22",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "DEDE SUPERMERCADO",
+	"status": "Fechado",
+	"valor": 810,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-24",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "DALMIR DE SOUZA",
+	"status": "Fechado",
+	"valor": 160,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-25",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "JOANA DARC GOIANIA",
+	"status": "Fechado",
+	"valor": 920,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-26",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "ONILDO MARTINS",
+	"status": "Cancelado",
+	"valor": 453,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-27",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "ONILDO MARTINS",
+	"status": "Fechado",
+	"valor": 453,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-28",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "BETO DA OFICINA",
+	"status": "Fechado",
+	"valor": 810,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-29",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "BAIANINHO",
+	"status": "Fechado",
+	"valor": 370,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-3",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "VICTOR HUGO SILVA BESSA",
+	"status": "Fechado",
+	"valor": 500,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-30",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "VANESSA (ESCRITORIO LOTES TROPICAL)",
+	"status": "Fechado",
+	"valor": 2100,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-31",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "CELMA IRMA ZE LUIZ",
+	"status": "Fechado",
+	"valor": 70,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-4",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "CASA DE CARNE BOI NA BRASA",
+	"status": "Fechado",
+	"valor": 210,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-5",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "AILTON ALVES DOS REIS",
+	"status": "Cancelado",
+	"valor": 420,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-6",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "AILTON ALVES DOS REIS",
+	"status": "Fechado",
+	"valor": 420,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-7",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "VALQUIRIA",
+	"status": "Fechado",
+	"valor": 30,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-8",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "VALDEIR (FILHO DA D LIA)",
+	"status": "Fechado",
+	"valor": 1130,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-9",
+	"dataVenda": "2011-11-10 00:00:00.000",
+	"cliente": "JOANA GUIMARAES",
+	"status": "Fechado",
+	"valor": 2300,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-32",
+	"dataVenda": "2011-11-11 00:00:00.000",
+	"cliente": "VILMAR ROCHA",
+	"status": "Fechado",
+	"valor": 1300,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-33",
+	"dataVenda": "2011-11-11 00:00:00.000",
+	"cliente": "VILMAR ROCHA",
+	"status": "Fechado",
+	"valor": 75,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-34",
+	"dataVenda": "2011-11-11 00:00:00.000",
+	"cliente": "VILMAR ROCHA",
+	"status": "Fechado",
+	"valor": 185,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-35",
+	"dataVenda": "2011-11-11 00:00:00.000",
+	"cliente": "VILMAR ROCHA",
+	"status": "Fechado",
+	"valor": 336,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-36",
+	"dataVenda": "2011-11-14 00:00:00.000",
+	"cliente": "CECÍLIO GONÇALVES DE OLIVEIRA JUNIOR",
+	"status": "Fechado",
+	"valor": 595,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-37",
+	"dataVenda": "2011-11-14 00:00:00.000",
+	"cliente": "ELVISMAR",
+	"status": "Fechado",
+	"valor": 1598,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-38",
+	"dataVenda": "2011-11-14 00:00:00.000",
+	"cliente": "MARIA EURIPEDES DA SILVA (MAE DA RONI)",
+	"status": "Fechado",
+	"valor": 1680,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "ORC-56",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "GEAN GESSO",
+	"status": "Cancelado",
+	"valor": 1032,
+	"tipo": "Orçamento"
+},
+{
+	"pedido": "PED-39",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "DOMINGOS",
+	"status": "Fechado",
+	"valor": 60,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-40",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "FERRUGEM DO SALAO",
+	"status": "Fechado",
+	"valor": 35,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-41",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "",
+	"status": "Cancelado",
+	"valor": 0,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-43",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "COMERCIAL UNIAO",
+	"status": "Fechado",
+	"valor": 230,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-44",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "MARCELO OLIVEIRA BARROS",
+	"status": "Fechado",
+	"valor": 380,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-45",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "AILTON PROFESSOR",
+	"status": "Fechado",
+	"valor": 80,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-46",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "VALDEIR (FILHO DA D LIA)",
+	"status": "Fechado",
+	"valor": 150,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-47",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "JOANA DARC GOIANIA",
+	"status": "Fechado",
+	"valor": 920,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-48",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "EBER CONTRUTOR  (GOIANIA)",
+	"status": "Fechado",
+	"valor": 3200,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-49",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "FRANCINHA",
+	"status": "Fechado",
+	"valor": 360,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-52",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "VANDERLEI RODRIGUES",
+	"status": "Fechado",
+	"valor": 79,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-55",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "GAZ MADEIREIRA",
+	"status": "Fechado",
+	"valor": 640,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-61",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "MARILEIDE MAE MARCELO FAMOVEIS",
+	"status": "Cancelado",
+	"valor": 140,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-62",
+	"dataVenda": "2011-11-17 00:00:00.000",
+	"cliente": "MARILEIDE MAE MARCELO FAMOVEIS",
+	"status": "Fechado",
+	"valor": 140,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-64",
+	"dataVenda": "2011-11-18 00:00:00.000",
+	"cliente": "OSCAR",
+	"status": "Fechado",
+	"valor": 90,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-60",
+	"dataVenda": "2011-11-19 00:00:00.000",
+	"cliente": "CLEIDE (PERTO SINDICATO)",
+	"status": "Fechado",
+	"valor": 130,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "ORC-72",
+	"dataVenda": "2011-11-22 00:00:00.000",
+	"cliente": "ROSCA CARTORIO",
+	"status": "Cancelado",
+	"valor": 4400,
+	"tipo": "Orçamento"
+},
+{
+	"pedido": "PED-70",
+	"dataVenda": "2011-11-22 00:00:00.000",
+	"cliente": "AILTON ALVES DOS REIS",
+	"status": "Fechado",
+	"valor": 78,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "ORC-80",
+	"dataVenda": "2011-11-24 00:00:00.000",
+	"cliente": "IRMÃ LUCIO SCOOB LANCHE",
+	"status": "Cancelado",
+	"valor": 310,
+	"tipo": "Orçamento"
+},
+{
+	"pedido": "PED-58",
+	"dataVenda": "2011-11-24 00:00:00.000",
+	"cliente": "MARINALVA (WELLINGTON TURQUINHO)",
+	"status": "Fechado",
+	"valor": 520,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-69",
+	"dataVenda": "2011-11-24 00:00:00.000",
+	"cliente": "ATELIE",
+	"status": "Fechado",
+	"valor": 500,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-73",
+	"dataVenda": "2011-11-24 00:00:00.000",
+	"cliente": "DESPACHANTE SAO LUIZ",
+	"status": "Fechado",
+	"valor": 270,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "ORC-81",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "",
+	"status": "Cancelado",
+	"valor": 0,
+	"tipo": "Orçamento"
+},
+{
+	"pedido": "ORC-83",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "IRMÃS DO WESLEY DO ZÉ DIAS",
+	"status": "Cancelado",
+	"valor": 60,
+	"tipo": "Orçamento"
+},
+{
+	"pedido": "PED-50",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "SINDICATO RURAL",
+	"status": "Fechado",
+	"valor": 234,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-57",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "ROSCA CARTORIO",
+	"status": "Fechado",
+	"valor": 190,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-59",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "NILTON OLIVEIRA DA SILVA",
+	"status": "Fechado",
+	"valor": 448,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-63",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "JOAO PEDREIRO",
+	"status": "Fechado",
+	"valor": 740,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-68",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "IRMÃ LUCIO SCOOB LANCHE",
+	"status": "Fechado",
+	"valor": 239,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-77",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "IRMÃ LUCIO SCOOB LANCHE",
+	"status": "Fechado",
+	"valor": 310,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-78",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "JOÃO DA CELG",
+	"status": "Fechado",
+	"valor": 140,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-84",
+	"dataVenda": "2011-11-26 00:00:00.000",
+	"cliente": "FRANCINILDO XAVIER",
+	"status": "Fechado",
+	"valor": 650,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-74",
+	"dataVenda": "2011-11-28 00:00:00.000",
+	"cliente": "JOSUE CORRETOR",
+	"status": "Fechado",
+	"valor": 674,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "ORC-86",
+	"dataVenda": "2011-12-01 00:00:00.000",
+	"cliente": "MABIO",
+	"status": "Cancelado",
+	"valor": 913,
+	"tipo": "Orçamento"
+},
+{
+	"pedido": "ORC-91",
+	"dataVenda": "2011-12-01 00:00:00.000",
+	"cliente": "ALESSIO PEDREIRO",
+	"status": "Cancelado",
+	"valor": 450,
+	"tipo": "Orçamento"
+},
+{
+	"pedido": "PED-89",
+	"dataVenda": "2011-12-03 00:00:00.000",
+	"cliente": "GILSON VIZINHO",
+	"status": "Fechado",
+	"valor": 65,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-95",
+	"dataVenda": "2011-12-03 00:00:00.000",
+	"cliente": "IRMAO ROGERIO",
+	"status": "Fechado",
+	"valor": 38,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-100",
+	"dataVenda": "2011-12-07 00:00:00.000",
+	"cliente": "DOMINGOS",
+	"status": "Fechado",
+	"valor": 40,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-99",
+	"dataVenda": "2011-12-07 00:00:00.000",
+	"cliente": "ROSCA CARTORIO",
+	"status": "Fechado",
+	"valor": 4400,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "ORC-109",
+	"dataVenda": "2011-12-09 00:00:00.000",
+	"cliente": "",
+	"status": "Cancelado",
+	"valor": 40,
+	"tipo": "Orçamento"
+},
+{
+	"pedido": "PED-101",
+	"dataVenda": "2011-12-09 00:00:00.000",
+	"cliente": "ELIENE",
+	"status": "Fechado",
+	"valor": 132,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-102",
+	"dataVenda": "2011-12-09 00:00:00.000",
+	"cliente": "VALDEIR (FILHO DA D LIA)",
+	"status": "Cancelado",
+	"valor": 95,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-66",
+	"dataVenda": "2011-12-09 00:00:00.000",
+	"cliente": "ANTONIO VIEIRA DA SILVA ",
+	"status": "Fechado",
+	"valor": 814,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-67",
+	"dataVenda": "2011-12-09 00:00:00.000",
+	"cliente": "ANTONIO VIEIRA DA SILVA ",
+	"status": "Fechado",
+	"valor": 777,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-71",
+	"dataVenda": "2011-12-09 00:00:00.000",
+	"cliente": "GAZ MADEIREIRA",
+	"status": "Fechado",
+	"valor": 57,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-94",
+	"dataVenda": "2011-12-09 00:00:00.000",
+	"cliente": "AILTON ALVES DOS REIS",
+	"status": "Fechado",
+	"valor": 78,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-106",
+	"dataVenda": "2011-12-12 00:00:00.000",
+	"cliente": "DIVINO PEDREIRO",
+	"status": "Fechado",
+	"valor": 200,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-112",
+	"dataVenda": "2011-12-12 00:00:00.000",
+	"cliente": "CLIENTE A VISTA",
+	"status": "Fechado",
+	"valor": 30,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-104",
+	"dataVenda": "2011-12-13 00:00:00.000",
+	"cliente": "CARLINHO DA MADEIREIRA",
+	"status": "Fechado",
+	"valor": 516,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-117",
+	"dataVenda": "2011-12-13 00:00:00.000",
+	"cliente": "DELEON",
+	"status": "Fechado",
+	"valor": 95,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-51",
+	"dataVenda": "2011-12-13 00:00:00.000",
+	"cliente": "REI DAS MADEIRAS",
+	"status": "Fechado",
+	"valor": 247,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-53",
+	"dataVenda": "2011-12-13 00:00:00.000",
+	"cliente": "REI DAS MADEIRAS",
+	"status": "Fechado",
+	"valor": 242,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-54",
+	"dataVenda": "2011-12-13 00:00:00.000",
+	"cliente": "REI DAS MADEIRAS",
+	"status": "Fechado",
+	"valor": 110,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-65",
+	"dataVenda": "2011-12-13 00:00:00.000",
+	"cliente": "REEV MATERIAIS PARA CONSTRUÇÃO MAURILANDIA",
+	"status": "Fechado",
+	"valor": 1020,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-75",
+	"dataVenda": "2011-12-13 00:00:00.000",
+	"cliente": "MANELATAS",
+	"status": "Fechado",
+	"valor": 1100,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-96",
+	"dataVenda": "2011-12-13 00:00:00.000",
+	"cliente": "VANESSA (ESCRITORIO LOTES TROPICAL)",
+	"status": "Fechado",
+	"valor": 1000,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-105",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "FERNANDO",
+	"status": "Fechado",
+	"valor": 270,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-114",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "CARLAO",
+	"status": "Fechado",
+	"valor": 128,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-121",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "MARIA IRENICE PEREIRA",
+	"status": "Fechado",
+	"valor": 260,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-122",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "IGREJA CATOLICA",
+	"status": "Fechado",
+	"valor": 100,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-123",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "JOÃO RODRIGUES",
+	"status": "Fechado",
+	"valor": 170,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-124",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "JOSINALDO ",
+	"status": "Fechado",
+	"valor": 70,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-125",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "JOANA DARC",
+	"status": "Cancelado",
+	"valor": 35,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-126",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "JOANA DARC",
+	"status": "Fechado",
+	"valor": 35,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-82",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "NILTON OLIVEIRA DA SILVA",
+	"status": "Fechado",
+	"valor": 192,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-93",
+	"dataVenda": "2011-12-15 00:00:00.000",
+	"cliente": "LAERTE",
+	"status": "Fechado",
+	"valor": 270,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-108",
+	"dataVenda": "2011-12-19 00:00:00.000",
+	"cliente": "MARQUINHO BITORNEIRA",
+	"status": "Fechado",
+	"valor": 190,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-92",
+	"dataVenda": "2011-12-19 00:00:00.000",
+	"cliente": "PARAIBA ",
+	"status": "Fechado",
+	"valor": 1000,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-107",
+	"dataVenda": "2011-12-20 00:00:00.000",
+	"cliente": "DELCIMAR",
+	"status": "Fechado",
+	"valor": 2468,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-130",
+	"dataVenda": "2011-12-20 00:00:00.000",
+	"cliente": "MARCELO",
+	"status": "Fechado",
+	"valor": 35,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-76",
+	"dataVenda": "2011-12-20 00:00:00.000",
+	"cliente": "ROBERTO POSTO MEIA PONTE",
+	"status": "Fechado",
+	"valor": 3000,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-131",
+	"dataVenda": "2011-12-22 00:00:00.000",
+	"cliente": "",
+	"status": "Cancelado",
+	"valor": 0,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-132",
+	"dataVenda": "2011-12-22 00:00:00.000",
+	"cliente": "MARCONDES",
+	"status": "Fechado",
+	"valor": 115,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-133",
+	"dataVenda": "2011-12-22 00:00:00.000",
+	"cliente": "FABRICIO BRADESCO",
+	"status": "Fechado",
+	"valor": 0.01,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-136",
+	"dataVenda": "2011-12-22 00:00:00.000",
+	"cliente": "MARINALVA (WELLINGTON TURQUINHO)",
+	"status": "Fechado",
+	"valor": 300,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-42",
+	"dataVenda": "2011-12-22 00:00:00.000",
+	"cliente": "JANIO BORGES GUIMARES",
+	"status": "Fechado",
+	"valor": 2000,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-115",
+	"dataVenda": "2011-12-26 00:00:00.000",
+	"cliente": "TIO EDIO",
+	"status": "Fechado",
+	"valor": 0.01,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-135",
+	"dataVenda": "2011-12-26 00:00:00.000",
+	"cliente": "IRAIMA",
+	"status": "Fechado",
+	"valor": 105,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-143",
+	"dataVenda": "2011-12-26 00:00:00.000",
+	"cliente": "EMERSON",
+	"status": "Fechado",
+	"valor": 195,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-146",
+	"dataVenda": "2011-12-26 00:00:00.000",
+	"cliente": "CLIENTE A VISTA",
+	"status": "Fechado",
+	"valor": 20,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-87",
+	"dataVenda": "2011-12-26 00:00:00.000",
+	"cliente": "ELZA OU GELZA (TUMULO)",
+	"status": "Fechado",
+	"valor": 1460,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-118",
+	"dataVenda": "2011-12-27 00:00:00.000",
+	"cliente": "CREIDILENE COMERCIAL MAX",
+	"status": "Fechado",
+	"valor": 70,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-137",
+	"dataVenda": "2011-12-27 00:00:00.000",
+	"cliente": "CLEIDE",
+	"status": "Fechado",
+	"valor": 140,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-134",
+	"dataVenda": "2011-12-30 00:00:00.000",
+	"cliente": "BRUNO",
+	"status": "Fechado",
+	"valor": 370,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-139",
+	"dataVenda": "2011-12-30 00:00:00.000",
+	"cliente": "NIVALDO LIMA",
+	"status": "Fechado",
+	"valor": 50,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-147",
+	"dataVenda": "2011-12-30 00:00:00.000",
+	"cliente": "JOAO BATISTA",
+	"status": "Fechado",
+	"valor": 40,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-103",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "VALDEIR (FILHO DA D LIA)",
+	"status": "Fechado",
+	"valor": 95,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-110",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "LUCIO SCOOB LANCHE",
+	"status": "Fechado",
+	"valor": 27,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-113",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "DONA ROSA MAURILANDIA",
+	"status": "Fechado",
+	"valor": 700,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-116",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "DUPLA COR TINTAS",
+	"status": "Fechado",
+	"valor": 280,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-128",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "MARQUINHO BITORNEIRA",
+	"status": "Fechado",
+	"valor": 362,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-129",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "VALDEIR (FILHO DA D LIA)",
+	"status": "Fechado",
+	"valor": 552,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-140",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "ONILDO MARTINS",
+	"status": "Fechado",
+	"valor": 400,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-142",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "FATIMA MAE DA VANESSA",
+	"status": "Fechado",
+	"valor": 175,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-145",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "JOSÉ LUIZ VIREIRA (ZE LUIZ)",
+	"status": "Fechado",
+	"valor": 50,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-148",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "ROBERTO POSTO MEIA PONTE",
+	"status": "Fechado",
+	"valor": 600,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-149",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "ATELIE",
+	"status": "Fechado",
+	"valor": 126,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-151",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "NIVALDO LIMA",
+	"status": "Fechado",
+	"valor": 180,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-153",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "CLIENTE A VISTA",
+	"status": "Fechado",
+	"valor": 40,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-85",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "JOÃO DA CELG",
+	"status": "Fechado",
+	"valor": 70,
+	"tipo": "Pedido de Venda"
+},
+{
+	"pedido": "PED-98",
+	"dataVenda": "2011-12-31 00:00:00.000",
+	"cliente": "VALQUIRIA",
+	"status": "Fechado",
+	"valor": 80,
+	"tipo": "Pedido de Venda"
+}]
