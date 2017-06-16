@@ -1,0 +1,180 @@
+[{
+	"codigo": "1",
+	"descricao": "Entrada de Cana (Periodo/Ton)"
+},
+{
+	"codigo": "2",
+	"descricao": "Produção - Açucar SC 50 Kg"
+},
+{
+	"codigo": "3",
+	"descricao": "Acomp.da Qualidade do Açúcar"
+},
+{
+	"codigo": "4",
+	"descricao": "Vendas Açúcar"
+},
+{
+	"codigo": "5",
+	"descricao": "Carregamento Açúcar"
+},
+{
+	"codigo": "6",
+	"descricao": "Carregamento Álcool"
+},
+{
+	"codigo": "7",
+	"descricao": "Produção álcool anidro"
+},
+{
+	"codigo": "8",
+	"descricao": "Produção álcool hidratado"
+},
+{
+	"codigo": "9",
+	"descricao": "Motivo Parada Industria"
+},
+{
+	"codigo": "10",
+	"descricao": "Motivos Parada Indústria"
+},
+{
+	"codigo": "12",
+	"descricao": "Eficiência Global %"
+},
+{
+	"codigo": "14",
+	"descricao": "Eqp. Parado Colheita"
+},
+{
+	"codigo": "15",
+	"descricao": "Rotação Moenda (PLC)"
+},
+{
+	"codigo": "16",
+	"descricao": "Oscilação Estoque Cana"
+},
+{
+	"codigo": "17",
+	"descricao": "Dados Tecnológicos Cana"
+},
+{
+	"codigo": "18",
+	"descricao": "Cana Entregue por Frente"
+},
+{
+	"codigo": "19",
+	"descricao": "Brix Xarope %"
+},
+{
+	"codigo": "20",
+	"descricao": "Transmitância do Caldo"
+},
+{
+	"codigo": "21",
+	"descricao": "Pol Torta - Horária"
+},
+{
+	"codigo": "23",
+	"descricao": "Cozimento - Massa "
+},
+{
+	"codigo": "24",
+	"descricao": "Peso Portaria"
+},
+{
+	"codigo": "25",
+	"descricao": "Disp. Eqp. Colheita"
+},
+{
+	"codigo": "26",
+	"descricao": "Grupo de Atividades dos Equipamentos"
+},
+{
+	"codigo": "27",
+	"descricao": "Pressão Dedini (PLC)"
+},
+{
+	"codigo": "28",
+	"descricao": "Pressão Zanini (PLC)"
+},
+{
+	"codigo": "29",
+	"descricao": "Níveis Fab. Açúcar (PLC)"
+},
+{
+	"codigo": "30",
+	"descricao": "Níveis Fab. Álcool (PLC)"
+},
+{
+	"codigo": "31",
+	"descricao": "Níveis ETA (PLC)"
+},
+{
+	"codigo": "32",
+	"descricao": "Vazão Caldo (PLC)"
+},
+{
+	"codigo": "33",
+	"descricao": "Abertura de O.S. Recente TOP 20"
+},
+{
+	"codigo": "34",
+	"descricao": "Ent. Produção Açucar Manual SC 50 KG"
+},
+{
+	"codigo": "35",
+	"descricao": "Produção - Álcool Anidro ( Litros )"
+},
+{
+	"codigo": "36",
+	"descricao": "Produção - Álcool Hidratado ( Litros )"
+},
+{
+	"codigo": "37",
+	"descricao": "Produção - Energia Elétrica Kw"
+},
+{
+	"codigo": "38",
+	"descricao": "ATR - Cana Kg/Ton"
+},
+{
+	"codigo": "39",
+	"descricao": "Impureza Vegetal"
+},
+{
+	"codigo": "40",
+	"descricao": "Cor do Xarope Flotado U.I."
+},
+{
+	"codigo": "41",
+	"descricao": "Insolúvel no Caldo Clarificado"
+},
+{
+	"codigo": "42",
+	"descricao": "Transmitância Caldo Clarificado %"
+},
+{
+	"codigo": "43",
+	"descricao": "ART - Água das Canaletas g/m3"
+},
+{
+	"codigo": "44",
+	"descricao": "Pol Bagaço da Cana %"
+},
+{
+	"codigo": "45",
+	"descricao": "Efieciência Fermentação %"
+},
+{
+	"codigo": "46",
+	"descricao": "ART - Perdido Multijatos da Fábrica g/m3"
+},
+{
+	"codigo": "47",
+	"descricao": "ART - Perdido Multijatos Evaporação g/m3"
+},
+{
+	"codigo": "48",
+	"descricao": "Impureza Mineral (%)"
+}]
